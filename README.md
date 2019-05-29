@@ -1,5 +1,4 @@
-The repository contains the following:
-* Vanilla GAN trained to generate adversarial examples for MNIST dataset.
+Vanilla GAN trained to generate adversarial examples for MNIST dataset.
 
 Python source file has been provided for GAN implementation:
 * Implementation using TensorFlow.
