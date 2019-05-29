@@ -138,7 +138,7 @@ for iteration in range(1000000):
     _, G_loss_iter = sess.run([G_solver, G_loss], feed_dict={Z: sample_Z(minibatch_size, Z_dim)})
 
     if iteration % 1000 == 0:
-        print('Iter: {}'.format(it))
+        print('Iter: {}'.format(iteration))
         print('D loss: {:.4}'. format(D_loss_iter))
         print('G_loss: {:.4}'.format(G_loss_iter))
         print()
