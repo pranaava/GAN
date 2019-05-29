@@ -1,7 +1,7 @@
-The folder contains the following documents:
+The repository contains the following:
 * Vanilla GAN trained to generate adversarial examples for MNIST dataset.
 
-Python file has been provided for GAN implementation:
+Python source file has been provided for GAN implementation:
 * Implementation using TensorFlow.
 * Xavier Initialization used for networks.
 * Possible Loss functions provided.
