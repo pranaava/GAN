@@ -12,6 +12,8 @@ Python source file has been provided for GAN implementation:
 
 
 ![alt text](https://github.com/pranaava/GANs/blob/master/GAN_minimax_function.jpg?raw=true "Minimax Formulation" )
+
+
  Adversarial example generated during training process, showing the least mode collapse and more variance in the number of digits produced by the generator.
 
 
