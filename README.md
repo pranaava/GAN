@@ -2,8 +2,7 @@ Vanilla GAN trained to generate adversarial examples for MNIST dataset.
 
 Python source file has been provided for GAN implementation:
 * Implementation using TensorFlow.
-* Xavier Initialization used for networks.
-* Possible Loss functions provided.
+* Different possible Loss functions provided.
 * Trained on MNIST dataset.
 
 
