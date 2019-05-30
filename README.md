@@ -7,13 +7,13 @@ Python source file has been provided for GAN implementation:
 * Trained on MNIST dataset.
 
 
- Minimax formulation of GANs:
+ MINIMAX formulation of GANs:
 
 
 ![alt text](https://github.com/pranaava/GANs/blob/master/GAN_minimax_function.jpg?raw=true "Minimax Formulation" )
 
 
- Adversarial example generated during the training process, showing the least mode collapse and more variance in the number of digits produced by the generator.
+ Adversarial example generated during the training process, showing the least mode collapse and more variance in the number of digits produced by the generator:
 
 
 ![alt text](https://github.com/pranaava/GANs/blob/master/MNIST_adversarial.png?raw=true "MNISt adversarial example" )
